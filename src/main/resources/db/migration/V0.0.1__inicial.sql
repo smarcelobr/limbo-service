@@ -1,0 +1,5 @@
+CREATE TABLE stock_item (
+    id INTEGER NOT NULL AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    PRIMARY KEY (ID)
+);

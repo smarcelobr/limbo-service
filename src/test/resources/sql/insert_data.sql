@@ -1,0 +1,1 @@
+INSERT INTO stock_item VALUES (1, 'LED'), (2, 'RASPBERRY PI');
